@@ -1,4 +1,5 @@
-## Personal Portfolio
+- 👋 Hi, I’m @crown0128
+- 📫 How to reach me happycrown0128@gmail.com
 
 ### [Live Site](https://jsmasterypro.com)
 
